@@ -14,3 +14,5 @@ SUB B
 
 # Storing the Output again
 STA 2002H
+
+HLT
