@@ -12,3 +12,5 @@ ADD B
 
 # Again Storing the Output
 STA 2002H
+
+HLT
