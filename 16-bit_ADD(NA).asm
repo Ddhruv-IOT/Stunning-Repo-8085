@@ -1,0 +1,14 @@
+MVI B, 10H
+MVI C, f1H 
+MVI D, a0H
+MVI E, 50H
+
+MOV A, C
+ADD E
+MOV L, A
+
+MOV A, B
+ADC D
+MOV H, A
+
+HLT
